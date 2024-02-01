@@ -1,7 +1,9 @@
 # "Hello World!" : React & JSX
 
-![React Logo](src/assets/react.svg) ![Javascript Logo](src/assets/Unofficial_JavaScript_logo_2.svg)
-
+!<div style="text-align: center;">
+  <img src="src/assets/react.svg" alt="React Logo" width="100" height="100" style="display: inline-block; margin: 0 auto;">
+  <img src="src/assets/Unofficial_JavaScript_logo_2.svg" alt="Javascript Logo" width="100" height="100" style="display: inline-block; margin: 0 auto;">
+</div>
 
 # Utilisation d'images dans un Composant React
 
