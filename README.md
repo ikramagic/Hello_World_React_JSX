@@ -1,8 +1,10 @@
 # "Hello World!" : React & JSX
 
 !<div style="text-align: center;">
-  <img src="src/assets/react.svg" alt="React Logo" width="100" height="100" style="display: inline-block; margin: 0 auto;">
-  <img src="src/assets/Unofficial_JavaScript_logo_2.svg" alt="Javascript Logo" width="100" height="100" style="display: inline-block; margin: 0 auto;">
+<img src="src/assets/react.svg" alt="React Logo" width="100" height="100" style="display: inline-block; margin: 0 auto;">
+<img src="src/assets/Unofficial_JavaScript_logo_2.svg" alt="Javascript Logo" width="100" height="100" style="display: inline-block; margin: 0 auto;">
+<img src="src/assets/Rotating-earth-animated-unscreened.gif" alt="Earth rotating" width="100" height="100" style="display: inline-block; margin: 0 auto;">
+
 </div>
 
 # Utilisation d'images dans un Composant React
@@ -27,8 +29,8 @@ Supposons que tu as une image nommée "image.png" que tu souhaites centrer dans 
 
 2. Ensuite, dans ton fichier JavaScript ou JSX, importe l'image de la manière suivante :
    ```javascript
-   import React from 'react';
-   import image from './chemin/vers/ton/image.png';
+   import React from "react";
+   import image from "./chemin/vers/ton/image.png";
    ```
 
 # Créer a-brillant-react-app avec Vite
@@ -76,8 +78,8 @@ Rends-toi sur http://localhost:5173/ dans ton navigateur (ou sur http://127.0.0.
 Crée un fichier `main.jsx` dans le dossier `/src`. Cela servira de point d'entrée pour ton application. Importe `React` et `ReactDOM` pour rendre l'application dans le `DOM` (Document Object Model) :
 
 ```javascript
-import React from 'react';
-import ReactDOM from 'react-dom';
+import React from "react";
+import ReactDOM from "react-dom";
 ```
 
 Crée un composant `App` :
@@ -94,7 +96,7 @@ const App = () => (
 Intègre ce composant dans le DOM en utilisant ReactDOM :
 
 ```javascript
-ReactDOM.render(<App />, document.getElementById('root'));
+ReactDOM.render(<App />, document.getElementById("root"));
 ```
 
 Désormais, si tu vas sur ton serveur local tu connais on en a déjà parlé (🔎`ctrl+f` 4000 ou 🔎`ctrl+f` 5173 in this `README.md`). Tu connais.
