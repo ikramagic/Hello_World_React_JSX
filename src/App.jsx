@@ -1,12 +1,16 @@
-// src/App.jsx
+// App.jsx
 import React from 'react';
-import Paragraphs from './components/Paragraphs';
+import TotalAmount from './components/TotalAmount/TotalAmount';
 
-const App = () => (
-  <div>
-    <h1>Hello world!</h1>
-    <Paragraphs />
-  </div>
-);
+const App = () => {
+  return (
+    <div>
+      <h1>Exemple d'utilisation de props</h1>
+      <TotalAmount amount={50} />
+      <TotalAmount amount={100} />
+      <TotalAmount amount={200} />
+    </div>
+  );
+};
 
 export default App;
