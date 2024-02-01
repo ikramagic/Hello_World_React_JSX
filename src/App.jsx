@@ -1,11 +1,12 @@
 // src/App.jsx
-function App() {
-  return (
-    <div>
-      <h1>Hello world!</h1>
-      <p>How are you?</p>
-    </div>
-  );
-}
+import React from 'react';
+import Paragraphs from './components/Paragraphs';
+
+const App = () => (
+  <div>
+    <h1>Hello world!</h1>
+    <Paragraphs />
+  </div>
+);
 
 export default App;
