@@ -107,7 +107,7 @@ Intègre ce composant dans le `DOM` en utilisant `ReactDOM` :
 ReactDOM.render(<App />, document.getElementById("root"));
 ```
 
-Désormais, si tu vas sur ton serveur local tu connais on en a déjà parlé (🔎`ctrl+f` 4000 ou 🔎`ctrl+f` 5173 in this `README.md`). Tu connais.
+Désormais, si tu vas sur ton serveur local tu connais on en a déjà parlé (🔎`ctrl+f` 4000 ou 🔎`ctrl+f` 5173 in this `README.md`).
 
 <details>
 <summary>that ⵜⴰⵢⵔⵉ ? 1:10 ───ㅇ───── 1:01 </summary>
