@@ -40,10 +40,9 @@ Supposons que tu as une image nommée `image.png` que tu souhaites centrer dans 
 
 # Créer a-brillant-react-app avec Vite
 
-Bonjour, monde ! <br>
+B🌍NJ🌍UR, M🌍NDE !<br>
 On va créer ta première application `React` ⚛️ en utilisant ⚡`Vite`. <br>
-C'est simple et rapide, alors vamos.
-
+C'est simple et rapide, alors vamos. 🏋🏻‍♀️
 
 ## Installation
 
