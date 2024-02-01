@@ -1,6 +1,7 @@
-# React + Vite
+# "Hello World!" : React & JSX
 
-![React Logo](src/assets/react.svg)
+![React Logo](src/assets/react.svg) ![Javascript Logo](src/assets/Unofficial_JavaScript_logo_2.svg)
+
 
 # Utilisation d'images dans un Composant React
 
