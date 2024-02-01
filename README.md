@@ -40,12 +40,11 @@ Supposons que tu as une image nommée `image.png` que tu souhaites centrer dans 
 
 # Créer a-brillant-react-app avec Vite
 
-**B🌍NJ🌍UR, M🌍NDE !**
-<br>
+## **B🌍NJ🌍UR, M🌍NDE !**
 On va créer ta première application `React` ⚛️ en utilisant ⚡`Vite`.
 C'est simple et rapide, alors vamos. 🏋🏻‍♀️
 
-<img src="src/assets/Rotating-earth-animated-unscreened.gif" alt="Earth rotating">
+<img src="src/assets/Rotating-earth-animated-unscreened.gif" alt="Earth rotating" width="250" height="250">
 
 ## Installation
 
