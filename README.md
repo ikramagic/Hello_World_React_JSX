@@ -1,13 +1,12 @@
 # "Hello World!" : React & JSX
 
-<div style="text-align: center;">
+<div>
 <img src="src/assets/react.svg" alt="React Logo" width="100" height="100" style="display: inline-block; margin: 0 auto;">
-<img src="src/assets/Unofficial_JavaScript_logo_2.svg" alt="Javascript Logo" width="100" height="100" style="display: inline-block; margin: 0 auto;">
 <img src="src/assets/Rotating-earth-animated-unscreened.gif" alt="Earth rotating" width="100" height="100" style="display: inline-block; margin: 0 auto;">
-
+<img src="src/assets/Unofficial_JavaScript_logo_2.svg" alt="Javascript Logo" width="100" height="100" style="display: inline-block; margin: 0 auto;">
 </div>
 
-# Utilisation d'images dans un Composant React
+## Utilisation d'images dans un composant React 
 
 On va voir comment apprendre comment utiliser des images dans un composant React. Que ce soit pour afficher des images dans un composant unique ou pour les réutiliser dans différents endroits de ton application, nous verrons comment faire.
 
