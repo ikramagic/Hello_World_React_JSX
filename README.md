@@ -118,7 +118,7 @@ Cette brilliant-app est ton tout premier 🧩 composant React ! 🧧
 <details>
 <summary>that magic? 2:20 ───ㅇ───── 2:02 </summary>
 🥏 I am also a DJ ! 👀  
-⚡ 🔊 Come check my other portfolio and enjoy the 🔊 ▶︎ •၊၊||၊|။||||။‌‌‌‌‌၊|• 0:99 🎺 [ⵍⵢⵓⴱⵓⴼ](https://www.youtube.com/playlist?list=PLNcTKDW0oKbxBDSO-XiHc-b3JNFTqdYvt) 🎺 & [come here if you like what you hear !](https://www.linkedin.com/in/ikrame-saadi/) 🔊 !⚡
+⚡ 🔊 Come check my other portfolio and enjoy the 🔊 ▶︎ •၊၊||၊|။||||။‌‌‌‌‌၊|• 0:99 🎺 [ⵍⵢⵓⴱⵓⴼ](https://www.youtube.com/playlist?list=PLNcTKDW0oKbxBDSO-XiHc-b3JNFTqdYvt) 🎺 🔊 ⚡!
 </details>
 
 <a href="https://www.youtube.com/watch?v=BTyQSIJAAgE" target="_blank">m a g 🛦 c ?!</a>
@@ -126,5 +126,5 @@ Cette brilliant-app est ton tout premier 🧩 composant React ! 🧧
 <details>
 <summary>that ⵍⵢⵓⴱⵓⴼ ? 3:30 ───ㅇ───── 3:03 </summary>
 🥏 I am also a DJ ! 👀  
-⚡ 🔊 Come check my other portfolio and enjoy the 🔊 ▶︎ •၊၊||၊|။||||။‌‌‌‌‌၊|• 0:99 🎺 [ⵍⵢⵓⴱⵓⴼ](https://www.youtube.com/playlist?list=PLNcTKDW0oKbxBDSO-XiHc-b3JNFTqdYvt) 🎺 & [come here if you like what you hear !](https://www.linkedin.com/in/ikrame-saadi/) 🔊 !⚡
+⚡ 🔊 Come check my other portfolio and enjoy the 🔊 ▶︎ •၊၊||၊|။||||။‌‌‌‌‌၊|• 0:99 🎺 [ⵍⵢⵓⴱⵓⴼ](https://www.youtube.com/playlist?list=PLNcTKDW0oKbxBDSO-XiHc-b3JNFTqdYvt) 🎺 🔊 ⚡!
 </details>
